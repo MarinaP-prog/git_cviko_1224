@@ -1,4 +1,8 @@
 haf
 mnau
 buuuuuuuuuuuu
+<<<<<<< HEAD
 toto je posledni radek
+=======
+posledni radek
+>>>>>>> konfliktnivetev
